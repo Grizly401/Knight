@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: 7955091cf65a0444bb5c9417bd358ed0
+  m_Entries:
+  - m_Id: 271512043520
+    m_Key: BackKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 383999082496
+    m_Key: EffectKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439112237056
+    m_Key: LanguageKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237924057088
+    m_Key: LevelKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28296937472
+    m_Key: PlayKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210342313984
+    m_Key: QuitKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316969910272
+    m_Key: RestartKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290227027968
+    m_Key: ResumKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153182339072
+    m_Key: SettingKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361668608000
+    m_Key: SoundKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13441278476288
+    m_Key: PauseKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13818598064128
+    m_Key: BackToMenuKey
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2643717991246594072
+  references:
+    version: 2
+    RefIds:
+    - rid: 2643717991246594072
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1724506617200

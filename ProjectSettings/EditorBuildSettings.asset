@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e6ef9add5c170c04f89f7ebcbb88f3a1
+  - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
+    guid: 462889902f681e84399a3d4fef20ec85
+  - enabled: 1
+    path: Assets/Scenes/LevelTwo.unity
+    guid: fac33c40d3bf89c43bc69806a526ce31
+  - enabled: 1
+    path: Assets/Scenes/LevelThree.unity
+    guid: a9feccc60b25dc24a90f96e3fce4d374
+  - enabled: 1
+    path: Assets/Scenes/LevelFour.unity
+    guid: 85d45e610920c1e4f9be37e7cac2b78a
+  - enabled: 1
+    path: Assets/Scenes/LevelFIve.unity
+    guid: ed5a172c35d0d5f43a7417130b65d97e
+  - enabled: 1
+    path: Assets/Scenes/LevelSix.unity
+    guid: ebf83492abb7627418c562d141416472
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 6d669c5b958b3724c8ed1e735f51eb3c, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 322142d4ce7fd1b4ba8b02e70a493d08, type: 2}
