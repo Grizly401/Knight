@@ -35,8 +35,7 @@
   
 <div align="center">
 
-<img src="./Promo/Knight_Sneak.gif" alt="Пример" style="width:125px; height:auto;" />
-
+<img src="./Promo/Knight_Sneak.gif" alt="Пример" style="width:250px; height:auto;" />
 
 ## 📸 Скриншоты  
 
