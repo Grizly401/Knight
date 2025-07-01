@@ -3,7 +3,7 @@
 # Knight
 ## Тизер игры (игра на начльном этапе разработки)
 
-[![Видео-превью](./Promo/Promo/Knight_youtube.jpg)]((https://www.youtube.com/watch?v=00fvj95pSPc&ab_channel=CoronaART))
+[![Видео-превью](./Promo/Promo/Knight_youtube.jpg)](https://www.youtube.com/watch?v=00fvj95pSPc&ab_channel=CoronaART)
 
 </div>
 
