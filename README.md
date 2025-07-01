@@ -35,7 +35,7 @@
   
 <div align="center">
 
-<img src="./Promo/Bird/Knight_3.gif" alt="Пример" style="width:125px; height:auto;" />
+<img src="./Promo/Promo/Knight_3.gif" alt="Пример" style="width:125px; height:auto;" />
 
 
 ## 📸 Скриншоты  
