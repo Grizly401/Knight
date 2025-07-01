@@ -43,8 +43,8 @@
 
 | ![Геймплей 1](./Promo/Promo/Knight_Jump.png) | ![Геймплей 2](./Promo/Promo/Dark_Knight_png.png) |  
 |--------------------------------------|--------------------------------------| 
+| ![Геймплей 1](./Promo/Promo/Knight_1.gif) | ![Геймплей 2](./Promo/Promo/Dark_Knight.gif) | 
 | ![Геймплей 1](./Promo/Promo/Death_Menue.gif) | ![Геймплей 2](./Promo/Promo/Pause_Menue.gif) | 
-| ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
  
 <div align="center">
  
