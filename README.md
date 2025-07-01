@@ -57,12 +57,12 @@
 
 <div align="center">
 
-- **WASD** — движение  
-- **Е** — взаимодействие
-- **CTRL** — пригнуться
-- **SPACE** — прыжок
-- **ESC** — пауза
-![Геймплей 1](./Promo/Promo/SettingsMenue.gif)
+ **WASD** — движение  
+ **Е** — взаимодействие
+ **CTRL** — пригнуться
+ **SPACE** — прыжок
+ **ESC** — пауза
+![Геймплей 1](./Promo/Promo/Settings_Menue.gif)
 
 </div>
 
