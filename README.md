@@ -69,7 +69,3 @@
 
 
 ![Геймплей 1](./Promo/Promo/Settings_Menue.gif)
-
-</div>
-
-
