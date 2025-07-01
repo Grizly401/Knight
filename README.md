@@ -3,7 +3,7 @@
 # Knight
 ## Тизер игры (игра на начльном этапе разработки)
 
-[![Видео-превью](./Promo/Promo/Knight youtube.jpg)]((https://www.youtube.com/watch?v=00fvj95pSPc))
+[![Видео-превью](./Promo/Promo/Knight_youtube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
 
 </div>
 
@@ -15,7 +15,10 @@
 
 ## <img src="https://github.com/Grizly401/GameJam/raw/main/Screenshots/free-icon-game-2506535.png" alt="Пример" style="width:30px; height:auto;" /> Особенности геймплея 
 
+<img src="./Promo/Bird/Гиф.gif" alt="Пример" style="width:100px; height:auto;" />
+
 </div>
+
 
 **Опасные враги**
 Стражи — бдительные воины, которые преследуют тебя, стоит им заметить!
