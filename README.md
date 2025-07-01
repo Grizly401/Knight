@@ -1,9 +1,9 @@
 <div align="center">
  
 # Knight
-## Тизер игры
+## Тизер игры (игра на начльном этапе разработки)
 
-[![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
+[![Видео-превью](./Promo/Promo/Knight youtube.jpg)]((https://www.youtube.com/watch?v=00fvj95pSPc))
 
 </div>
 
@@ -13,7 +13,7 @@
  
 <div align="center">
 
-# 🎮 Особенности геймплея
+## <img src="https://github.com/Grizly401/GameJam/raw/main/Screenshots/free-icon-game-2506535.png" alt="Пример" style="width:30px; height:auto;" /> Особенности геймплея 
 
 </div>
 
