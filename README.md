@@ -35,14 +35,14 @@
   
 <div align="center">
 
-<img src="./Promo/Promo/Knight_3.gif" alt="Пример" style="width:125px; height:auto;" />
+<img src="./Promo/Armature_animtion0_7.gif.mp4f" alt="Пример" style="width:125px; height:auto;" />
 
 
 ## 📸 Скриншоты  
 
 </div>
 
-| ![Геймплей 1](./Promo/Promo/) | ![Геймплей 2]((./Promo/Promo) |  
+| ![Геймплей 1](./Promo/Promo/) | ![Геймплей 2](./Promo/Promo) |  
 |--------------------------------------|--------------------------------------| 
 | ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
 | ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
