@@ -42,6 +42,7 @@
 </div>
 
 | ![Геймплей 1](./Promo/Promo/Knight_Jump.png) | ![Геймплей 2](./Promo/Promo/Dark_Knight_png.png) |  
+|--------------------------------------|--------------------------------------| 
 | ![Геймплей 1](./Promo/Promo/Death_Menue.gif) | ![Геймплей 2](./Promo/Promo/Pause_Menue.gif) | 
 | ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
  
