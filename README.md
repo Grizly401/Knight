@@ -56,12 +56,9 @@
 
 </div>
 
-
-| - **WASD** — движение   
-|- **Е** — взаимодействие
-| - **CTRL** — пригнуться | ![Геймплей 2](./Promo/Promo) |  <img src="./Promo/Bird/Гиф.gif" alt="Пример" style="width:200px; height:auto;" />
-| - **SPACE** — прыжок
-| - **ESC** — пауза
+| ![Геймплей 1](./Promo/Promo/) | ![Геймплей 2](./Promo/Promo) |  
+| ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
+| ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
 
 
 - **WASD** — движение  
