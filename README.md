@@ -35,17 +35,16 @@
   
 <div align="center">
 
-<img src="./Promo/Armature_animtion0_7.gif.mp4f" alt="Пример" style="width:125px; height:auto;" />
-
+<img src="./Promo/Knight_Sneak.gif" alt="Пример" style="width:250px; height:auto;" />
 
 ## 📸 Скриншоты  
 
 </div>
 
-| ![Геймплей 1](./Promo/Promo/) | ![Геймплей 2](./Promo/Promo) |  
+| ![Геймплей 1](./Promo/Promo/Knight_Jump.png) | ![Геймплей 2](./Promo/Promo/Dark_Knight_png.png) |  
 |--------------------------------------|--------------------------------------| 
-| ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
-| ![Геймплей 1](./Promo/Promo) | ![Геймплей 2](./Promo/Promo) | 
+| ![Геймплей 1](./Promo/Promo/Knight_1.gif) | ![Геймплей 2](./Promo/Promo/Dark_Knight.gif) | 
+| ![Геймплей 1](./Promo/Promo/Death_Menue.gif) | ![Геймплей 2](./Promo/Promo/Pause_Menue.gif) | 
  
 <div align="center">
  
@@ -56,9 +55,15 @@
 
 </div>
 
+<div align="center">
+
 - **WASD** — движение  
 - **Е** — взаимодействие
 - **CTRL** — пригнуться
 - **SPACE** — прыжок
 - **ESC** — пауза
+![Геймплей 1](./Promo/Promo/SettingsMenue.gif)
+
+</div>
+
 
