@@ -94,7 +94,8 @@ You are a desperate peasant who has stolen a knight's armor to pretend as a nobl
 
 </div>
 
-
+<div align="right">
+ 
 **Guardians** — Vigilant warriors who will hunt you down if they spot you! 
 
 **Birds of Prey** — Deadly creatures that kill on impact. 
@@ -109,6 +110,7 @@ You are a desperate peasant who has stolen a knight's armor to pretend as a nobl
 
 **Levers** — Activate mechanisms to open doors or change the environment.
 
+</div>
   
 <div align="center">
 
@@ -117,8 +119,9 @@ You are a desperate peasant who has stolen a knight's armor to pretend as a nobl
 </div>
 
 <div align="center">
- 
-**Язык**: C#
+
+
+
 
 
 ## 🎮 Control Keys  
