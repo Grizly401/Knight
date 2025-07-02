@@ -81,10 +81,12 @@
 
 </div>
 
-
+<div align="left">
+ 
 A great tournament in the kingdom - the winner will receive the princess's hand and the right to be called heir of the throne! But what should a simple peasant do if only noble knights can participate in the tournament?
 
 You are a desperate peasant who has stolen a knight's armor to pretend as a noble warrior. But the path to victory is full of dangers! Prove that you can overcome obstacles without having any military qualities!
+</div>
  
 <div align="center">
 
