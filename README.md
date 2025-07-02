@@ -94,7 +94,7 @@ You are a desperate peasant who has stolen a knight's armor to pretend as a nobl
 
 </div>
 
-<div align="right">
+<div align="left">
  
 **Guardians** — Vigilant warriors who will hunt you down if they spot you! 
 
